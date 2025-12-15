@@ -1,0 +1,604 @@
+.header-list-link{
+    font-family: Lato;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 160%;
+    letter-spacing: 0%;
+    vertical-align: middle;
+    color: #424551;
+}
+.header-list-second-link{
+    font-family: Lato;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 160%;
+    letter-spacing: 0%;
+    vertical-align: middle;
+    color: #FFFFFF;
+}
+.header-list-log-in{
+    font-family: Lato;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 160%;
+    letter-spacing: 0%;
+    vertical-align: middle;
+    color: #424551;
+}
+.homepage-text{
+    font-family: Lato;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 150%;
+    letter-spacing: 0%;
+    vertical-align: middle;
+    color: #1E212C;
+}
+.homepage-title{
+    font-family: Lato;
+    font-weight: 900;
+    font-size: 64px;
+    line-height: 130%;
+    letter-spacing: 1px;
+    vertical-align: middle;
+    color: #1E212C;
+}
+.homepage-list-link{
+    font-family: Lato;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 52px;
+    letter-spacing: 0.5px;
+    text-align: center;
+    vertical-align: middle;
+    color: #FF3F3A;
+}
+.homepaged-list-link-secon{
+    font-family: Lato;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 52px;
+    letter-spacing: 0.5px;
+    text-align: center;
+    vertical-align: middle;
+    color: #FFFFFF;
+}
+.homepage-list-item-second{
+    font-family: Lato;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 52px;
+    letter-spacing: 0.5px;
+    text-align: center;
+    vertical-align: middle;
+    color: #1E212C;
+}
+.about-text{
+    font-family: Lato;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #1E212C;
+}
+.about-title{
+    font-family: Lato;
+    font-weight: 900;
+    font-size: 46px;
+    line-height: 130%;
+    letter-spacing: 0%;
+    color: #1E212C;
+}
+.about-list-text{
+    font-family: Lato;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 160%;
+    letter-spacing: 0%;
+    color: #424551;
+}
+.homepage{
+    font-family: Lato;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 44px;
+    letter-spacing: 0.5px;
+    text-align: center;
+    vertical-align: middle;
+    color: #FFFFFF;
+}
+.courses-main-text{
+    font-family: Lato;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+.courses-main-title{
+    font-family: Lato;
+    font-weight: 900;
+    font-size: 46px;
+    line-height: 130%;
+    letter-spacing: 0%;
+    color: #1E212C;
+}
+.courses-link{
+    font-family: Lato;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 52px;
+    letter-spacing: 0.5px;
+    text-align: center;
+    vertical-align: middle;
+    color: #FF3F3A;
+}
+.courses-text-one{
+    font-family: Lato;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 150%;
+    letter-spacing: 0%;
+    color: #FFFFFF;
+}
+.courses-title{
+    font-family: Lato;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 150%;
+    letter-spacing: 0%;
+    color: #1E212C;
+}
+.courses-text-price{
+    font-family: Lato;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 150%;
+    letter-spacing: 0%;
+    color: #FF4242;
+}
+.benefits-main-text{
+    font-family: Lato;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 1px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #1E212C;
+}
+.benefits-main-title{
+    font-family: Lato;
+    font-weight: 900;
+    font-size: 46px;
+    line-height: 130%;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #1E212C;
+}
+.benefits-text{
+    font-family: Lato;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 160%;
+    letter-spacing: 0%;
+    text-align: center;
+    vertical-align: middle;
+    color: #9A9CA5;
+}
+.Benefits-main-title-two{
+    font-family: Lato;
+    font-weight: 900;
+    font-size: 32px;
+    line-height: 130%;
+    letter-spacing: 0%;
+    color: #1E212C;
+}
+.Benefits-main-text-two{
+    font-family: Lato;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 160%;
+    letter-spacing: 0%;
+    color: #424551;
+}
+.events-main-text{
+    font-family: Lato;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #1E212C;
+}
+.events-main-title{
+    font-family: Lato;
+    font-weight: 900;
+    font-size: 46px;
+    line-height: 130%;
+    letter-spacing: 0%;
+    color: #1E212C;
+}
+.events-text-date{
+    font-family: Lato;
+    font-weight: 900;
+    font-size: 48px;
+    line-height: 130%;
+    letter-spacing: 1px;
+    color: #FF3F3A;
+}
+.events-text-months{
+    font-family: Lato;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 150%;
+    letter-spacing: 0%;
+    color: #1E212C;
+}
+.events-text-time{
+    font-family: Lato;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 160%;
+    letter-spacing: 0%;
+    color: #787A80;
+}
+.events-text-one{
+    font-family: Lato;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 150%;
+    letter-spacing: 0%;
+    color: #1E212C;
+}
+.events-text-online{
+    font-family: Lato;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 160%;
+    letter-spacing: 0%;
+    vertical-align: middle;
+    color: #787A80;
+}
+.events-link{
+    font-family: Lato;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 44px;
+    letter-spacing: 0.5px;
+    text-align: center;
+    vertical-align: middle;
+    color: #FF3F3A;
+}
+.events-more-text{
+    font-family: Lato;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 150%;
+    letter-spacing: 0%;
+    vertical-align: middle;
+    color: #1E212C;
+}
+.events-main-link{
+    font-family: Lato;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 52px;
+    letter-spacing: 0.5px;
+    text-align: center;
+    vertical-align: middle;
+    color: #FFFFFF;
+}
+.certificate-main-text{
+    font-family: Lato;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #1E212C;
+}
+.certificate-main-title{
+    font-family: Lato;
+    font-weight: 900;
+    font-size: 46px;
+    line-height: 130%;
+    letter-spacing: 0%;
+    color: #1E212C;
+}
+.certificate-text-one{
+    font-family: Lato;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 160%;
+    letter-spacing: 0%;
+    color: #424551;
+}
+.team-main-text{
+    font-family: Lato;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 1px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #1E212C;
+}
+.team-main-title{
+    font-family: Lato;
+    font-weight: 900;
+    font-size: 46px;
+    line-height: 130%;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #1E212C;
+}
+.certificate-list-name{
+    font-family: Lato;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 150%;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #1E212C;
+}
+.certificate-list-position{
+    font-family: Lato;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 160%;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #787A80;
+}
+.testimonials-main-text{
+    font-family: Lato;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 1px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #1E212C;
+}
+.testimonials-main-title{
+    font-family: Lato;
+    font-weight: 900;
+    font-size: 46px;
+    line-height: 130%;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #1E212C;
+}
+.testimonials-text{
+    font-family: Lato;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 150%;
+    letter-spacing: 0%;
+    color: #424551;
+}
+.testimonials-list-title{
+    font-family: Lato;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 160%;
+    letter-spacing: 0%;
+    color: #1E212C;
+}
+.testimonials-list-position{
+    font-family: Lato;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 150%;
+    letter-spacing: 0%;
+    color: #787A80;
+}
+.blog-main-text{
+    font-family: Lato;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #1E212C;
+}
+.blog-main-title{
+    font-family: Lato;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #1E212C;
+}
+.blog-main-link{
+    font-family: Lato;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 52px;
+    letter-spacing: 0.5px;
+    text-align: center;
+    vertical-align: middle;
+    color: #FFFFFF;
+}
+.blog-list-second-item{
+    font-family: Lato;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 150%;
+    letter-spacing: 0%;
+    vertical-align: middle;
+    color: #787A80;
+}
+.blog-title{
+    font-family: Lato;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 150%;
+    letter-spacing: 0%;
+    color: #1E212C;
+}
+.blog-text{
+    font-family: Lato;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 160%;
+    letter-spacing: 0%;
+    color: #424551;
+}
+.blog-link{
+    font-family: Lato;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 160%;
+    letter-spacing: 0%;
+    color: #1E212C;
+}
+.subscribe-main-text{
+    font-family: Lato;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 1px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #1E212C;
+}
+.subscribe-main-title{
+    font-family: Lato;
+    font-weight: 900;
+    font-size: 46px;
+    line-height: 130%;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #1E212C;
+}
+.subscribe-input{
+    font-family: Lato;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 160%;
+    letter-spacing: 0%;
+    color: #9A9CA5;
+}
+.subscribe-btn{
+    font-family: Lato;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 52px;
+    letter-spacing: 0.5px;
+    text-align: center;
+    vertical-align: middle;
+    color: #FFFFFF;
+}
+.footer-main-text{
+    font-family: Lato;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 150%;
+    letter-spacing: 0%;
+    color: #FFFFFF;
+}
+.footer-map-title{
+    font-family: Lato;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 1px;
+    vertical-align: middle;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+.footer-list-map-item{
+    font-family: Lato;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 160%;
+    letter-spacing: 0%;
+    vertical-align: middle;
+    color: #FFFFFF;
+}
+.footer-courses-title{
+    font-family: Lato;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 1px;
+    vertical-align: middle;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+.footer-courses-list-item{
+    font-family: Lato;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 160%;
+    letter-spacing: 0%;
+    vertical-align: bottom;
+    color: #FFFFFF;
+}
+.footer-contact-title{
+    font-family: Lato;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 1px;
+    vertical-align: middle;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+.footer-contact-list-link{
+    font-family: Lato;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 160%;
+    letter-spacing: 0%;
+    color: #FFFFFF;
+}
+.footer-sign-up-title{
+    font-family: Lato;
+font-weight: 700;
+font-size: 16px;
+line-height: 150%;
+letter-spacing: 1px;
+vertical-align: middle;
+text-transform: uppercase;
+color: #FFFFFF;
+}
+.footer-sign-up-input{
+    font-family: Lato;
+font-weight: 400;
+font-size: 12px;
+line-height: 150%;
+letter-spacing: 0%;
+color: #FFFFFF;
+}
+.footer-sign-up-text{
+    font-family: Lato;
+font-weight: 400;
+font-size: 10px;
+line-height: 150%;
+letter-spacing: 0%;
+vertical-align: middle;
+color: #FFFFFF;
+}
+.footer-last-text{
+    font-family: Lato;
+font-weight: 400;
+font-size: 12px;
+line-height: 150%;
+letter-spacing: 0%;
+vertical-align: middle;
+color: #FFFFFF;
+}
+.footer-last-link{
+    font-family: Lato;
+font-weight: 700;
+font-size: 14px;
+line-height: 150%;
+letter-spacing: 0%;
+vertical-align: middle;
+color: #FFFFFF;
+}
