@@ -1,3 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.conterner{
+    margin: 0 auto;
+    width: 1230px; 
+    outline: 2px solid black;
+}
+.header{
+    padding-top: 13px;
+    padding-bottom:13px ;
+}
+.homepage{
+    padding-bottom:80px;
+    padding-top:128px;
+}
+.about{
+    padding-top: 180px;
+    padding-bottom: 180px;
+}
+.courses-section{
+    padding-bottom: 180px;
+}
+.benefits{
+    padding-bottom: 120px;
+}
+.events{
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+.certificate{
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
+.team{
+    padding-bottom: 180px;
+}
+.testimonials{
+    padding-bottom: 100px;
+}
+.blog{
+    padding-top: 120px;
+    padding-bottom: 180px;
+}
+.subscribe{
+    padding-top: 120px;
+    padding-bottom: 180px;
+}
+.footer{
+    padding-top: 81.3px;
+    padding-bottom: 20px;
+}
 .header-list-link{
     font-family: Lato;
     font-weight: 700;
@@ -559,46 +612,46 @@
 }
 .footer-sign-up-title{
     font-family: Lato;
-font-weight: 700;
-font-size: 16px;
-line-height: 150%;
-letter-spacing: 1px;
-vertical-align: middle;
-text-transform: uppercase;
-color: #FFFFFF;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 1px;
+    vertical-align: middle;
+    text-transform: uppercase;
+    color: #FFFFFF;
 }
 .footer-sign-up-input{
     font-family: Lato;
-font-weight: 400;
-font-size: 12px;
-line-height: 150%;
-letter-spacing: 0%;
-color: #FFFFFF;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 150%;
+    letter-spacing: 0%;
+    color: #FFFFFF;
 }
 .footer-sign-up-text{
     font-family: Lato;
-font-weight: 400;
-font-size: 10px;
-line-height: 150%;
-letter-spacing: 0%;
-vertical-align: middle;
-color: #FFFFFF;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 150%;
+    letter-spacing: 0%;
+    vertical-align: middle;
+    color: #FFFFFF;
 }
 .footer-last-text{
     font-family: Lato;
-font-weight: 400;
-font-size: 12px;
-line-height: 150%;
-letter-spacing: 0%;
-vertical-align: middle;
-color: #FFFFFF;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 150%;
+    letter-spacing: 0%;
+    vertical-align: middle;
+    color: #FFFFFF;
 }
 .footer-last-link{
     font-family: Lato;
-font-weight: 700;
-font-size: 14px;
-line-height: 150%;
-letter-spacing: 0%;
-vertical-align: middle;
-color: #FFFFFF;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 150%;
+    letter-spacing: 0%;
+    vertical-align: middle;
+    color: #FFFFFF;
 }
