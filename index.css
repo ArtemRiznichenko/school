@@ -2,55 +2,70 @@
     margin: 0;
     padding: 0;
 }
+li{
+    list-style: none;
+}
+button{
+    border: none;
+    cursor: pointer;
+}
+a{
+    text-decoration: none;
+}
 .conterner{
     margin: 0 auto;
     width: 1230px; 
     outline: 2px solid black;
+    background-color: #9f6969;
 }
 .header{
-    padding-top: 13px;
-    padding-bottom:13px ;
+    /* padding-top: 13px;
+    padding-bottom:13px ; */
+
 }
 .homepage{
-    padding-bottom:80px;
-    padding-top:128px;
+    /* padding-bottom:80px;
+    padding-top:128px; */
 }
 .about{
-    padding-top: 180px;
-    padding-bottom: 180px;
+    /* padding-top: 180px;
+    padding-bottom: 180px; */
 }
 .courses-section{
-    padding-bottom: 180px;
+    /* padding-bottom: 180px; */
 }
 .benefits{
-    padding-bottom: 120px;
+    /* padding-bottom: 120px; */
 }
 .events{
-    padding-top: 80px;
-    padding-bottom: 80px;
+    /* padding-top: 80px;
+    padding-bottom: 80px; */
 }
 .certificate{
-    padding-top: 120px;
-    padding-bottom: 120px;
+    /* padding-top: 120px;
+    padding-bottom: 120px; */
 }
 .team{
-    padding-bottom: 180px;
+    /* padding-bottom: 180px; */
 }
 .testimonials{
-    padding-bottom: 100px;
+    /* padding-bottom: 100px; */
 }
 .blog{
-    padding-top: 120px;
-    padding-bottom: 180px;
+    /* padding-top: 120px;
+    padding-bottom: 180px; */
 }
 .subscribe{
-    padding-top: 120px;
-    padding-bottom: 180px;
+    /* padding-top: 120px;
+    padding-bottom: 180px; */
 }
 .footer{
-    padding-top: 81.3px;
-    padding-bottom: 20px;
+    /* padding-top: 81.3px;
+    padding-bottom: 20px; */
 }
+
+         /* header */
+
 .header-list-link{
     font-family: Lato;
     font-weight: 700;
@@ -59,6 +74,8 @@
     letter-spacing: 0%;
     vertical-align: middle;
     color: #424551;
+     padding-top: 13px;
+    padding-bottom: 13px;
 }
 .header-list-second-link{
     font-family: Lato;
@@ -68,6 +85,9 @@
     letter-spacing: 0%;
     vertical-align: middle;
     color: #FFFFFF;
+    padding-left: 40px;
+    padding-right: 40px;
+    background-color: #FF3F3A;
 }
 .header-list-log-in{
     font-family: Lato;
@@ -78,6 +98,27 @@
     vertical-align: middle;
     color: #424551;
 }
+.header-conterner{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.header-list{
+    display: flex;
+    gap: 40px;
+
+}
+.header-list-second{
+    display: flex;
+    gap: 36px;
+}
+.header-nav{
+    display: flex;
+    gap: 60px;
+}
+        /* homepage */
+
 .homepage-text{
     font-family: Lato;
     font-weight: 700;
@@ -95,6 +136,7 @@
     letter-spacing: 1px;
     vertical-align: middle;
     color: #1E212C;
+    margin-bottom:60px ;
 }
 .homepage-list-link{
     font-family: Lato;
@@ -125,7 +167,23 @@
     text-align: center;
     vertical-align: middle;
     color: #1E212C;
+    margin-top: 259px;
 }
+.homepage{
+    font-family: Lato;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 44px;
+    letter-spacing: 0.5px;
+    text-align: center;
+    vertical-align: middle;
+    color: #FFFFFF;
+}
+.homepage-first-div{
+    margin-bottom: 24px;
+}
+          /* about */
+
 .about-text{
     font-family: Lato;
     font-weight: 700;
@@ -151,16 +209,9 @@
     letter-spacing: 0%;
     color: #424551;
 }
-.homepage{
-    font-family: Lato;
-    font-weight: 700;
-    font-size: 14px;
-    line-height: 44px;
-    letter-spacing: 0.5px;
-    text-align: center;
-    vertical-align: middle;
-    color: #FFFFFF;
-}
+
+       /* courses */
+
 .courses-main-text{
     font-family: Lato;
     font-weight: 700;
@@ -211,6 +262,12 @@
     letter-spacing: 0%;
     color: #FF4242;
 }
+.courses-list{
+    margin-top: 60px;
+}
+
+      /* benefits */
+
 .benefits-main-text{
     font-family: Lato;
     font-weight: 700;
@@ -256,6 +313,9 @@
     letter-spacing: 0%;
     color: #424551;
 }
+
+      /* events */
+
 .events-main-text{
     font-family: Lato;
     font-weight: 700;
@@ -343,6 +403,9 @@
     vertical-align: middle;
     color: #FFFFFF;
 }
+
+/* certificate */
+
 .certificate-main-text{
     font-family: Lato;
     font-weight: 700;
@@ -368,6 +431,27 @@
     letter-spacing: 0%;
     color: #424551;
 }
+.certificate-list-name{
+    font-family: Lato;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 150%;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #1E212C;
+}
+.certificate-list-position{
+    font-family: Lato;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 160%;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #787A80;
+}
+
+     /* team */
+
 .team-main-text{
     font-family: Lato;
     font-weight: 700;
@@ -387,24 +471,9 @@
     text-align: center;
     color: #1E212C;
 }
-.certificate-list-name{
-    font-family: Lato;
-    font-weight: 700;
-    font-size: 20px;
-    line-height: 150%;
-    letter-spacing: 0%;
-    text-align: center;
-    color: #1E212C;
-}
-.certificate-list-position{
-    font-family: Lato;
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 160%;
-    letter-spacing: 0%;
-    text-align: center;
-    color: #787A80;
-}
+
+       /* testimonials */
+
 .testimonials-main-text{
     font-family: Lato;
     font-weight: 700;
@@ -448,6 +517,9 @@
     letter-spacing: 0%;
     color: #787A80;
 }
+
+     /* blog */
+
 .blog-main-text{
     font-family: Lato;
     font-weight: 700;
@@ -509,6 +581,9 @@
     letter-spacing: 0%;
     color: #1E212C;
 }
+
+       /* subscribe */
+
 .subscribe-main-text{
     font-family: Lato;
     font-weight: 700;
@@ -546,6 +621,9 @@
     vertical-align: middle;
     color: #FFFFFF;
 }
+
+       /* footer */
+
 .footer-main-text{
     font-family: Lato;
     font-weight: 400;
