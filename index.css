@@ -63,7 +63,21 @@ a{
 }
 .subscribe{
     background: #fac7be;
-    background: linear-gradient(90deg, rgba(250, 199, 190, 1) 0%, rgba(235, 194, 183, 1) 100%);
+    background-color: linear-gradient(90deg, rgba(250, 199, 190, 1) 0%, rgba(235, 194, 183, 1) 100%);
+    background-image: url(./img/illustration12.png);
+    background-repeat: no-repeat;
+    background-position: bottom left;
+    position: relative;
+}
+.subscribe-div-img-one{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    background-image: url(./img/illustration12.png);
+    background-repeat: no-repeat;
+    background-position: bottom right; 
+    width: 354px;
+    height: 246px;
 }
 .footer{
     background: #fac7be;
@@ -967,6 +981,8 @@ a{
     letter-spacing: 0%;
     color: #1E212C;
     width: 390px;
+    margin-bottom: 8px;
+    margin-top: 8px;
 }
 .blog-text{
     font-family: Lato;
@@ -976,6 +992,7 @@ a{
     letter-spacing: 0%;
     color: #424551;
     width: 380px;
+    margin-bottom: 16px;
 }
 .blog-link{
     font-family: Lato;
@@ -991,7 +1008,8 @@ a{
     justify-content: center;
     align-items: center;
     width: 1230px;
-    gap: 30px;
+    gap: 30px; 
+    padding-bottom: 120px;
 }
 .blog-list-item{
     width: 390px;
@@ -1000,7 +1018,14 @@ a{
     display: flex;
     align-items: center;
     gap: 24px;
+    margin-top: 16px;
 }
+.blog-div-two{
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
 /* subscribe */
 
 .subscribe-main-text{
@@ -1012,6 +1037,7 @@ a{
     text-align: center;
     text-transform: uppercase;
     color: #1E212C;
+    padding-top: 120px;
 }
 .subscribe-main-title{
     font-family: Lato;
@@ -1021,6 +1047,9 @@ a{
     letter-spacing: 0%;
     text-align: center;
     color: #1E212C;
+    max-width: 810px;
+    margin: 0 auto; 
+    margin-bottom: 60px;
 }
 .subscribe-input{
     font-family: Lato;
@@ -1029,20 +1058,46 @@ a{
     line-height: 160%;
     letter-spacing: 0%;
     color: #9A9CA5;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    padding-left: 16px;
+    padding-right: 272px;
 }
 .subscribe-btn{
     font-family: Lato;
     font-weight: 700;
     font-size: 16px;
-    line-height: 52px;
+    line-height: 53px;
     letter-spacing: 0.5px;
     text-align: center;
     vertical-align: middle;
     color: #FFFFFF;
+    background-color: #FF3F3A;
+    padding-left: 40px;
+    padding-right: 40px;
+    display: inline-block;
 }
-
+.subscribe-form{
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    gap: 24px; 
+    padding-bottom: 180px;
+}
 /* footer */
-
+.foter-div-one{
+    display: flex; 
+    padding-top: 80px;
+}
+.footer-div-two{
+    padding-right: 80px;
+}
+.footer-list-img{
+    display: flex;
+    align-items: center;
+    gap: 20px; 
+    padding-bottom: 60px;
+}
 .footer-main-text{
     font-family: Lato;
     font-weight: 400;
@@ -1050,6 +1105,9 @@ a{
     line-height: 150%;
     letter-spacing: 0%;
     color: #FFFFFF;
+    width: 279px;
+    margin-top: 24px;
+    margin-bottom: 38px;
 }
 .footer-map-title{
     font-family: Lato;
@@ -1060,6 +1118,7 @@ a{
     vertical-align: middle;
     text-transform: uppercase;
     color: #FFFFFF;
+    margin-bottom: 12px;
 }
 .footer-list-map-item{
     font-family: Lato;
@@ -1068,7 +1127,11 @@ a{
     line-height: 160%;
     letter-spacing: 0%;
     vertical-align: middle;
-    color: #FFFFFF;
+    color: #FFFFFF; 
+    margin-bottom: 8px;
+}
+.footer-courses{
+    padding-right: 80px;
 }
 .footer-courses-title{
     font-family: Lato;
@@ -1078,7 +1141,8 @@ a{
     letter-spacing: 1px;
     vertical-align: middle;
     text-transform: uppercase;
-    color: #FFFFFF;
+    color: #FFFFFF; 
+    margin-bottom: 12px;
 }
 .footer-courses-list-item{
     font-family: Lato;
@@ -1088,6 +1152,10 @@ a{
     letter-spacing: 0%;
     vertical-align: bottom;
     color: #FFFFFF;
+    margin-bottom: 8px;
+}
+.footer-map-div{
+    padding-right:80px;
 }
 .footer-contact-title{
     font-family: Lato;
@@ -1098,6 +1166,7 @@ a{
     vertical-align: middle;
     text-transform: uppercase;
     color: #FFFFFF;
+    margin-bottom: 12px;
 }
 .footer-contact-list-link{
     font-family: Lato;
@@ -1106,6 +1175,10 @@ a{
     line-height: 160%;
     letter-spacing: 0%;
     color: #FFFFFF;
+    margin-bottom: 8px;
+}
+.footer-contact{
+    padding-right: 80px;
 }
 .footer-sign-up-title{
     font-family: Lato;
@@ -1124,6 +1197,15 @@ a{
     line-height: 150%;
     letter-spacing: 0%;
     color: #FFFFFF;
+    padding-left: 12px;
+    padding-bottom: 9px;
+    padding-top: 9px;
+    width: 100%;
+    margin-top: 12px;
+    margin-bottom: 8px;
+}
+.footer-sing-up-form{
+    width: 286px;
 }
 .footer-sign-up-text{
     font-family: Lato;
@@ -1133,6 +1215,7 @@ a{
     letter-spacing: 0%;
     vertical-align: middle;
     color: #FFFFFF;
+    width: 286px;
 }
 .footer-last-text{
     font-family: Lato;
@@ -1151,4 +1234,15 @@ a{
     letter-spacing: 0%;
     vertical-align: middle;
     color: #FFFFFF;
+}
+.footer-last{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 19px;
+    padding-bottom: 19px;
+}
+.footer-last-section{
+        background: #3b1f47;
+    background: linear-gradient(90deg, rgba(59, 31, 71, 1) 0%, rgba(43, 43, 56, 1) 0%);
+   
 }
